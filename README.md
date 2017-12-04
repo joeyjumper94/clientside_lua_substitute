@@ -1,3 +1,5 @@
+workshop version http://steamcommunity.com/sharedfiles/filedetails/?id=1221164658
+
 this addon adds two new console commands,
 
 lua_run_substitute, which allows you to run lua on yourself like lua_run_cl
